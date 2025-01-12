@@ -327,4 +327,8 @@ Indicate if a flag has a default value.
 
 `--version string Sets the ROSA version for the new cluster. (Default is the latest version)`
 
+<<<<<<< HEAD
 * * *
+=======
+* * *
+>>>>>>> 55d69df (cli guidelines markdown)
