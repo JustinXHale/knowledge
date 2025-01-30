@@ -1,4 +1,4 @@
-author: Justin X. Hale, Red Hat
+author: Justin X. Hale, Red Hat UXD
 
 # cli-guidelines | UXD Hub
 Command Line Interface Guidelines (CLI Guidelines)
